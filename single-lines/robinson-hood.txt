@@ -42,3 +42,24 @@ Do you prefer cats, dogs, or both?
 Are there any good indoor family activities for a rainy day?
 Who was the youngest president of the United States?
 Can you tell me about the current state of space exploration?
+
+"What is the largest country in terms of land area?"
+"Can you explain the concept of Pythagorean theorem?"
+"How does photosynthesis work?"
+"What are the key components of a balanced financial statement?"
+"What is the role of the Federal Reserve in the United States economy?"
+"Tell me something interesting about tropical rainforests."
+"What are some emerging technologies that could shape our future?"
+"What are some popular types of cute pets?"
+"What are some fun family activities for the summer?"
+"Who was the first president of the United States?"
+"What are the main features of GPS technology?"
+"What is the difference between speed and velocity in physics?"
+"How do earthquakes occur?"
+"Can you explain the concept of supply and demand in economics?"
+"Tell me about the life cycle of a butterfly."
+"What are some environmentally-friendly technologies being adopted by businesses?"
+"What are some famous presidential speeches in history?"
+"What are some of the basic principles of algebra?"
+"What are the major branches of science?"
+"What are some common characteristics of successful entrepreneurs?"
